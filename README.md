@@ -1,4 +1,5 @@
 # Grafos
 Grafos e funções utilizando templates.
 
-Ignore, são só testes.
+- Busca em largura.
+- Algoritmo de Dijkstra.
